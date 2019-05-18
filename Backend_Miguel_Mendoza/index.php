@@ -14,7 +14,7 @@
 
 
 <body>
-  <video src="img/casa_venta.mp4" id="vidFondo"></video>
+  <video src="img/video.mp4" id="vidFondo"></video>
 
   <div class="contenedor">
     <div class="card rowTitulo">
